@@ -183,9 +183,6 @@ performance-dashboard/
 - Verify canvas support in browser
 - Check data format is correct
 
-## 📝 License
-
-MIT
 
 ## 👤 Author
 
