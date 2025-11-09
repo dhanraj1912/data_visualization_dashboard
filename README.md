@@ -1,7 +1,7 @@
 # Performance-Critical Data Visualization Dashboard
 
 A high-performance real-time dashboard built with Next.js 14+ App Router and TypeScript that can smoothly render and update 10,000+ data points at 60fps.
-
+Deployed Link : https://flamproject.netlify.app/dashboard
 ## 🚀 Features
 
 - **Multiple Chart Types**: Line chart, bar chart, scatter plot, and heatmap
